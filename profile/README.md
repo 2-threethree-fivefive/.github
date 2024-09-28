@@ -78,6 +78,10 @@
 - 아키텍처 구조도
 
 - erd
+<br/>
+
+  <img width="779" alt="스크린샷 2024-09-28 오후 10 40 03" src="https://github.com/user-attachments/assets/7f66f773-dfa1-4658-a69b-b8c9d370a4ef">
+
 
 <br/>
 
