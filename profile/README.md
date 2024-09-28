@@ -76,8 +76,8 @@
 ### 🔧 **서버 구성 및 데이터베이스**
 
 - 아키텍처 구조도
-  
-  ![image](https://github.com/user-attachments/assets/a06778eb-afa4-44d4-9b50-ecd050aa782d)
+
+ ![image](https://github.com/user-attachments/assets/a06778eb-afa4-44d4-9b50-ecd050aa782d)
 
 
 - erd
