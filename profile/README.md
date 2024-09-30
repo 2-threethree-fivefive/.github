@@ -79,7 +79,8 @@
 
 - 아키텍처 구조도
 
- ![image](https://github.com/user-attachments/assets/a06778eb-afa4-44d4-9b50-ecd050aa782d)
+![image](https://github.com/user-attachments/assets/3a79a5b0-0881-4b52-8715-f6f1bc3e84b5)
+
 
 
 - erd
