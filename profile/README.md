@@ -32,9 +32,9 @@
 | **Name**     | 김현진          | 오대관  | 서정원  | 권성현   | 정훈석                                           |
 |:------------:|:------------:|:----:|:----:|:-----:|:---------------------------------------------:|
 | **Position** | 팀장 <br/> 백엔드 | 백엔드  | 백엔드  | 프론트엔드 | 프론트엔드                                         |
-| **Part** | - 상품, 리뷰, 기획전, 회원 장바구니, 미디어 등 도메인에 관련된 API 개발 <br/> - AwsS3를 이용한 미디어 처리 <br/> - NoSql(redis)을 이용한 최근 본 상품 처리, QueryDsl의 동적 쿼리를 통한 검색 / 카테고리 분류 <br/> - 집계 테이블을 활용한 베스트 리뷰 처리|
- | - 주문, 결제, 배송지, 카테고리 관련 API 개발
-   - 인프라 ci/cd 구축, Docker:   nginx,  mySQL,  Spring Boot , Redis  | 담당 파트 추가  | 담당 파트 추가 | 담당 파트 추가                                         |
+| **Part** | - 상품, 리뷰, 기획전, 회원 장바구니, 미디어 등 도메인에 관련된 API 개발 <br/> - AwsS3를 이용한 미디어 처리 <br/> - NoSql(redis)을 이용한 최근 본 상품 처리, QueryDsl의 동적 쿼리를 통한 검색 / 카테고리 분류 <br/> - 집계 테이블을 활용한 베스트 리뷰 처리| - - 주문, 결제, 배송지, 카테고리 관련 API 개발
+   - 인프라 ci/cd 구축, Docker:   nginx,  mySQL,  Spring Boot , Redis 
+ |  | 담당 파트 추가  | 담당 파트 추가 | 담당 파트 추가                                         |
 | **Git**      | [Kimhyunjin4455](https://github.com/Kimhyunjin4455)         | [daegwan00](https://github.com/daegwan00) | []() | []()  | [AndreaStudy](https://github.com/AndreaStudy) |
 
 <br/>
